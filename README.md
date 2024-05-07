@@ -29,10 +29,10 @@ To automate the customer support ticket system, we will use NLP techniques to pr
 - Open-source codebase for customization and enhancement of the system to fit specific needs.
 
 # Model Evaluation Metrics
-       Models           Training Accuracy	 Test Accuracy
-Logistic Regression	          0.964503	    0.940964
-Decision Tree Classifier	    0.858960	    0.790243
-Random Forest Classifier	    0.866679	    0.846811
+       Models           Training Accuracy	  Test Accuracy
+- Logistic Regression	    0.964503	    0.940964
+- Decision Tree Classifier	    0.858960	    0.790243
+- Random Forest Classifier	    0.866679	    0.846811
 
 - We can infer that a standard logistic regression model is able to perform the best for our use case. There is also no major overfitting that we should be concerned about.
 - We can test the results using custom texts next to check the performance of the model.
